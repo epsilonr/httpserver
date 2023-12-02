@@ -1,2 +1,2 @@
 # HTTP Server
-Simple HTTP server written in Python.
+Simple HTTP server written in Python via sockets.
